@@ -12,6 +12,7 @@ public class TextArea1 implements ActionListener {
     public static void main(String[] args) {
         TextArea1 gui = new TextArea1();
         gui.go();
+        System.out.println();
     }
 
     private void go() {
